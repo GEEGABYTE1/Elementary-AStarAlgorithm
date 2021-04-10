@@ -8,7 +8,7 @@ The algorithm was made using Graphs and vertices, which are Vertex objcets with 
 
 Time Complexity: Coming soon 
 
-The algorithm only takes in *integer* type values as weight and vertex values can be any type.
+The algorithm only takes *integer* type values as weight and vertex values can be any type.
 
 *Note*: All other functions except `.traverse()` were made to create the graph.
 

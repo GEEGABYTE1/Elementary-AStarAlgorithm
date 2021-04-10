@@ -34,7 +34,7 @@ class Graph:
         return False
 
     
-    def traverse(self, start_vertex, end_vertex):
+    def traverse(self, start_vertex, end_vertex):       ### Algorithm ####
         counts = []
         lst = []
         for i, j in self.graph_dict.items():
@@ -95,7 +95,7 @@ class Graph:
 
 
 
-
+### Test inputs ####
 railway = Graph()
 
 one = Vertex('1')

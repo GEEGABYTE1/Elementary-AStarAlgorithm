@@ -4,7 +4,7 @@ My elementary version of the A* Algorithm
 
 `.traverse()`: Re-created elmentary A* Algorithm 
 
-The algorithm was made using Graphs and verties are Vertex objects themselves with single inputted integers.
+The algorithm was made using Graphs and vertices are Vertex objects themselves with single inputted integers.
 
 Time Complexity: Coming soon 
 

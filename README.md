@@ -6,7 +6,7 @@ My elementary version of the A* Algorithm
 
 The algorithm was made using Graphs and vertices, which are Vertex objcets with a weight type `int`.
 
-Time Complexity: Coming soon 
+Time Complexity:
 
 The algorithm only takes *integer* type values as weight and vertex values can be any type.
 
